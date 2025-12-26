@@ -229,6 +229,32 @@ button:hover {
     background-color: #005599;
 }
 
+.social-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+.social-links a {
+    display: inline-block;
+}
+
+.social-links img {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.2s ease;
+    cursor: pointer;
+    pointer-events: auto;
+}
+
+.social-links img:hover {
+    transform: scale(1.1);
+}
+
+
+
+
 /* Footer */
 footer {
     text-align: center;
