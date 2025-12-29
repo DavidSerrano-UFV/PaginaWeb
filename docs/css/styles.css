@@ -32,10 +32,6 @@ header h1 {
 
 
 /* Navegación */
-
-
-/* Navegación */
-/* Navegación */
 nav {
     background-color: #002244;
     padding: 10px;
@@ -66,7 +62,6 @@ nav ul li a:hover {
 
 
 /* Contenido principal */
-
 main {
     max-width: 900px;
     margin: 40px auto;
@@ -251,8 +246,8 @@ button:hover {
 .social-links img:hover {
     transform: scale(1.1);
 }
-/* Network section */
 
+/* Network*/
 .network-grid {
     display: flex;
     gap: 30px;
